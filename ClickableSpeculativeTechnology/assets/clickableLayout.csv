@@ -1,0 +1,6 @@
+ID,Name,PNGFilename,Text,x,y,visible
+0,Frequency,assets/frequency.png,,560,700,yes
+1,Sunlight,assets/sun.png,,800,700,yes
+2,Tempature,assets/temp.png,,680,700,yes
+3,Positive,,Positive,590,50,yes
+4,Negative,,Negative,790,50,yes
